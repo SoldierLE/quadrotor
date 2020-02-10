@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +3V
+D Power flag
+K power-flag
+$ENDCMP
+#
+$CMP FP6131-30GS3
+D 600mA Low Quiscent Current LDO, 3.0V output, SOT-23
+K regulator linear ldo
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/1141636/FITIPOWER/FP6131.html
+$ENDCMP
+#
+$CMP MPU-6500
+D InvenSense 6-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI
+K mems magnetometer
+$ENDCMP
+#
+$CMP S8050
+D 0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, SOT23
+K S8050 NPN Low Voltage High Current Transistor
+F http://www.unisonic.com.tw/datasheet/S8050.pdf
+$ENDCMP
+#
+$CMP VBUS
+D Power flag
+K power-flag
+$ENDCMP
+#
+#End Doc Library
